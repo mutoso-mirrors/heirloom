@@ -1,7 +1,7 @@
 /*
    Changes by Gunnar Ritter, Freiburg i. Br., Germany, December 2002.
   
-   Sccsid @(#)maketab.c	1.10 (gritter) 4/26/04>
+   Sccsid @(#)maketab.c	1.11 (gritter) 12/4/04>
  */
 /* UNIX(R) Regular Expression Tools
 
@@ -25,8 +25,8 @@
 /*		copyright	"%c%" 	*/
 
 /*	from unixsrc:usr/src/common/cmd/awk/maketab.c /main/uw7_nj/1	*/
-/*	from $Header: /cvsroot/heirloom/heirloom/nawk/maketab.c,v 1.1 2004/12/04 13:50:58 gritter Exp $	*/
-static const char sccsid[] = "@(#)maketab.c	1.10 (gritter) 4/26/04";
+/*	from RCS Header: maketab.c 1.2 91/06/25 	*/
+static const char sccsid[] = "@(#)maketab.c	1.11 (gritter) 12/4/04";
 
 #include <stdio.h>
 #include <string.h>

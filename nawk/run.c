@@ -1,7 +1,7 @@
 /*
    Changes by Gunnar Ritter, Freiburg i. Br., Germany, December 2002.
   
-   Sccsid @(#)run.c	1.26 (gritter) 7/28/04>
+   Sccsid @(#)run.c	1.27 (gritter) 12/4/04>
  */
 /* UNIX(R) Regular Expression Tools
 
@@ -26,7 +26,7 @@
 
 
 /*	from unixsrc:usr/src/common/cmd/awk/run.c /main/uw7_nj/1	*/
-/*	from $Header: /cvsroot/heirloom/heirloom/nawk/run.c,v 1.1 2004/12/04 13:50:59 gritter Exp $	*/
+/*	from RCS Header: run.c 1.3 91/08/12 	*/
 
 #define tempfree(x,s)	if (istemp(x)) tfree(x,s); else
 
